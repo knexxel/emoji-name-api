@@ -1,5 +1,5 @@
 ## Emoji Name Finder
-A simple api to find the name of a emoji.
+A simple api to find the name of an emoji.
 
 ### >> usage
 ```
